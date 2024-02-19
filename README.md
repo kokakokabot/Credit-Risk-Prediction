@@ -10,7 +10,7 @@ The analysis followed a structured approach, starting with data cleaning to hand
 
 ###### Model Evaluated
 
-- Random Forest Classifier: Selected for its ability to handle non-linear relationships and its robustness to overfitting.
+Random Forest Classifier: Selected for its ability to handle non-linear relationships and its robustness to overfitting.
 
 ###### Evaluation Metrics
 
